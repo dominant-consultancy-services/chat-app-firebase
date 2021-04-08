@@ -121,12 +121,12 @@ import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
   // your config
-  apiKey: "AIzaSyBw29qJ3Tzcbwlfw-fCn7gF-hUuJ-g7nhw",
-     authDomain: "superchat-f59b6.firebaseapp.com",
-     projectId: "superchat-f59b6",
-     storageBucket: "superchat-f59b6.appspot.com",
-     messagingSenderId: "135464958241",
-     appId: "1:135464958241:web:bdffc0f88eb5216ef6e660"
+  apiKey: "AIzaSyCB28PpAjSVMAxmgi7ZlSyWv6mvTYNEbLk",
+  authDomain: "chat-e8fbc.firebaseapp.com",
+  projectId: "chat-e8fbc",
+  storageBucket: "chat-e8fbc.appspot.com",
+  messagingSenderId: "217322237771",
+  appId: "1:217322237771:web:08d4b52cddaf1520a442ce"
 })
 
 const auth = firebase.auth();
